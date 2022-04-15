@@ -9,6 +9,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 * [Installation instructions ](#Installation-instructions)
 * [Built with ](#built-with)
 * [Demo Video](#demo-video)
+* [Heroku](#heroku-link)
 * [Credits](#Credits)
 * [License](#License)
 
@@ -25,10 +26,12 @@ Nothing to install at this time
 * Heroku
 
 ## Demo video
-No Demo for this challenge
+https://drive.google.com/file/d/1Wzzt16a_WFIU9Is5kG45yasm2sL_tg4d/view?usp=sharing
+#### [Please click on open with windows media player after you click this link]
 
-Heroku Link:
-xxxx
+
+## Heroku Link:
+https://safe-lake-72708.herokuapp.com/
 
 
 ## Credits
